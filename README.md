@@ -7,13 +7,13 @@ https://ipioo.github.io/vendor/BabelJs/babel.min.js
 # Bootstrap3
 
 ```html
-https://ipioo.github.io/vendor/Bootstrap3/css/bootstrap.min.css
+https://ipioo.github.io/vendor/BootStrap/Bootstrap3/css/bootstrap.min.css
 ```
 
 # Bootstrap4
 
 ```html
-https://ipioo.github.io/vendor/Bootstrap4/css/bootstrap.min.css
+https://ipioo.github.io/vendor/BootStrap/Bootstrap4/css/bootstrap.min.css
 ```
 
 # FontAwesome
