@@ -88,7 +88,7 @@ https://ipioo.github.io/vendor/ResetCss/reset.css
 https://ipioo.github.io/vendor/Vue/2.6.1/vue.js
 ```
 
-### Vue
+### BulmaCss
 
 （官方文档：https://bulma.io/documentation/）
 
